@@ -1,44 +1,32 @@
 [
     {
-        "title": "Card 1",
         "image": "https://www.championtutor.com/blog/wp-content/uploads/2020/02/how-to-download-exam-papers.jpg",
         "content": "Matrix and calculus (Int 1)",
         "url": "https://drive.google.com/file/d/1ePmvkxhiKMAiDAz9PV-sLPu_fLZnUnpu/view?usp=sharing"
     },
     {
-        "title": "Card 2",
         "image": "https://www.championtutor.com/blog/wp-content/uploads/2020/02/how-to-download-exam-papers.jpg",
         "content": "python",
         "url": "#"
     },
     {
-        "title": "Card 3",
         "image": "https://www.championtutor.com/blog/wp-content/uploads/2020/02/how-to-download-exam-papers.jpg",
         "content": "physics",
         "url": "#"
     },
     {
-        "title": "Card 4",
         "image": "https://www.championtutor.com/blog/wp-content/uploads/2020/02/how-to-download-exam-papers.jpg",
         "content": "linear algebra",
         "url": "#"
     },
     {
-        "title": "Card 5",
         "image": "https://www.championtutor.com/blog/wp-content/uploads/2020/02/how-to-download-exam-papers.jpg",
         "content": "Economics",
         "url": "#"
     },
     {
-        "title": "Card 6",
         "image": "https://www.championtutor.com/blog/wp-content/uploads/2020/02/how-to-download-exam-papers.jpg",
-        "content": "EG",
-        "url": "#"
-    },
-    {
-        "title": "Card 6",
-        "image": "https://www.championtutor.com/blog/wp-content/uploads/2020/02/how-to-download-exam-papers.jpg",
-        "content": "dfhjk",
+        "content": "C programming",
         "url": "#"
     }
 ]
